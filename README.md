@@ -1,2 +1,12 @@
-# daily_review_agent
-Personal tool for Youdao note review and daily summary.
+# Daily Review Agent
+
+项目名称：Daily Review Agent
+
+用途：基于有道云笔记 OpenAPI 的个人笔记整理与每日总结工具。
+
+使用方式：本地运行，不对外分发，仅用于个人学习与研究。
+
+主要功能：
+- 读取有道云笔记内容
+- 按指定日期整理笔记
+- 生成每日总结与回顾
